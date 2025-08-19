@@ -1,7 +1,8 @@
 # 🎬 智能视频切割器
 
 一个专业的视频切割工具，具有美观的深灰色渐变界面，支持MP4格式视频的智能切割。
-![项目结构](docs/images/home.png)
+![项目结构](docs/images/home_1.png)
+![项目结构](docs/images/home_2.png)
 
 ## ✨ 主要功能
 
